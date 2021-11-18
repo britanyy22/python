@@ -1,6 +1,7 @@
 # python
 A place for my ITSE- 1429 projects.
-name is "Britany"
+
+Name is "Britany"
 y = 6 
 x = [1,2]
 
